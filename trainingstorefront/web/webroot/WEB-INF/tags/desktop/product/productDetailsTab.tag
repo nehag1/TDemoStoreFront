@@ -8,6 +8,8 @@
 <%@ taglib prefix="product" tagdir="/WEB-INF/tags/desktop/product" %>
 <%@ taglib prefix="ycommerce" uri="http://hybris.com/tld/ycommercetags" %>
 
+
+
 <ycommerce:testId code="productDetails_content_label">
 	<div class="productDescriptionText">
 		${product.description}
