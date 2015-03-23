@@ -21,6 +21,9 @@ public class TrainingFacadesConstants extends GeneratedTrainingFacadesConstants
 {
 	public static final String EXTENSIONNAME = "trainingfacades";
 
+	//public static final String EXTENSIONNAMES = "trainingfacades1";
+
+
 	private TrainingFacadesConstants()
 	{
 		//empty
