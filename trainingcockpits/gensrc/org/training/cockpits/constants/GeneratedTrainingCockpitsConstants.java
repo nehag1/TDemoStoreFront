@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 25 Feb, 2015 12:55:41 PM                    ---
+ * --- Generated at 27 Feb, 2015 2:50:31 PM                     ---
  * ----------------------------------------------------------------
  */
 package org.training.cockpits.constants;
